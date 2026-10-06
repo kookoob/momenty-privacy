@@ -1,2 +1,7 @@
-# momenty-privacy
-모먼티 · MOMENTY 개인정보처리방침 — StockHub
+# MOMENTY Privacy Policy
+
+Public privacy policy for 모먼티 · MOMENTY, operated by StockHub.
+
+Contact: stockhub.kr@gmail.com
+
+This repository contains only the privacy policy website.
